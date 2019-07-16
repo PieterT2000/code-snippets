@@ -1,0 +1,14 @@
+#floating-button {
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    right: 20px;
+    bottom: 40px;
+    z-index: 999;
+    background-image: url(url_goes_here);
+    background-repeat: no-repeat;
+    background-color: #cd3d34;
+    border-radius: 90px;
+    background-position: center;
+    box-shadow: 0 5px 2px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
